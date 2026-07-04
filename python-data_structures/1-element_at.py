@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#access to an element
+# Access to an element
 
 def element_at(my_list, idx):
     if idx < 0 or  idx >= len(my_list):
