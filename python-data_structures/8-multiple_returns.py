@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#Returns length and first character of a string
+# Returns length and first character of a string
 
 
 def multiple_returns(sentence):
